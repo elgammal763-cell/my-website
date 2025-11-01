@@ -1,0 +1,31 @@
+
+.custom-btn {
+  display: inline-block;
+  box-shadow: 0 4px 12px rgba(3, 96, 3, 0.6); 
+  transition: all 0.3s ease;
+    background-color: #0f6b23; 
+
+}
+
+.custom-btn:hover {
+  background-color: #56ca6f; 
+  box-shadow: 0 6px 16px rgba(144, 238, 144, 0.8);
+}
+
+.facebook-btn:hover {
+  background-color: #032755; 
+  color: white;
+  border-color: #02295c;
+}
+
+.linkedin-btn:hover {
+  background-color: #0a66c2; 
+  color: white;
+  border-color: #0a66c2;
+}
+
+.instagram-btn:hover {
+  background-color: #c13584; 
+  color: white;
+  border-color: #c13584;
+}
